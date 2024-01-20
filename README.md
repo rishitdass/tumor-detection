@@ -1,6 +1,5 @@
-# tumor-detection
-Tumor detection using Deep Leanring
 # Tumor Detection Model
+Tumor detection using Convolution Neural Networks.
 
 ## Overview
 
