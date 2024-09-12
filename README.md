@@ -5,6 +5,8 @@ Tumor detection using Convolution Neural Networks.
 
 This repository contains the code for a Tumor Detection Model using Convolutional Neural Networks (CNN). The model is trained on a dataset sourced from Kaggle, with the goal of accurately classifying tumors in medical images.
 
+## Porject Demonstration
+https://www.linkedin.com/feed/update/urn:li:activity:7198121006845079552/
 ## Dataset
 
 The dataset used for training can be found on Kaggle [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). Download and use the dataset for training and testing your model.
